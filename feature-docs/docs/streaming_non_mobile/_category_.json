@@ -1,0 +1,8 @@
+{
+  "label": "Streaming (Non-Mobile)",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Features concerning streaming to Twitch from desktops or laptops, including video/audio settings, server ingestion, etc."
+  }
+}
