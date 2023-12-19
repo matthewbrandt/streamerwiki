@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
+tags: ["Creator"]
 ---
 
 # Ingest Servers
-
 Where to send your stream to.
 
 ## Server URL

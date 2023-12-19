@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
+tags: ["Creator"]
 ---
 
 # Video & Bitrate
-
 Video settings, resolutions and bitrates.
 
 ## Bitrate

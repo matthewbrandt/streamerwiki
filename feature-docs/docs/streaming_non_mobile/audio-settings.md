@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
+tags: ["Creator"]
 ---
 
 # Audio & Bitrate
-
 Audio settings and bitrates.
 
 ## Bitrate
