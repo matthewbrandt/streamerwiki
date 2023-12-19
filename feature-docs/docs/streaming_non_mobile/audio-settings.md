@@ -15,5 +15,8 @@ AAC-LC, stereo or mono channels.
 ## Sampling Frequency
 Any (AAC codec).
 
+## Audio Tracks
+A stream can contain a primary audio track as well as a "VOD Track" to Twitch. The "VOD Track" will be included on the livestream, but when the VOD is played back the audio won't be included. You can find a detailed guide on how to do this in OBS [here](https://obsproject.com/kb/twitch-vod-track-guide).
+
 ---
 Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/broadcasting-guidelines)
