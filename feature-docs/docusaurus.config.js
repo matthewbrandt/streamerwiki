@@ -81,7 +81,7 @@ const config = {
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/matthewbrandt/twitch-features-docs',
-            label: 'GitHub',
+            label: 'Contribute',
             position: 'right',
           },
         ],
