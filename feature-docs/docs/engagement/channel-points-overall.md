@@ -27,6 +27,5 @@ Each channel can feature as many rewards (i.e. redemptions) as they want, up to 
 ## Spending on Predictions & Polls
 *tbd*
 
-
 ---
 Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/channel-points-guide)

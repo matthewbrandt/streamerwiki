@@ -6,6 +6,9 @@ tags: ["Creator","Affiliate", "Partner"]
 # Channel Points Rewards
 Setting up Channel Point (CP) rewards and management.
 
+## Broadcaster Points
+The broadcaster has unlimited channel points in their own channel.
+
 ## Limits and Costs
 A creator may set up a maximum of 50 rewards, active or not. The minimum cost for a reward is 1 and the maximum cost 999'999'999. If a reward is redeemed and cannot be fulfilled, the creator can refund the CP back to the user - but only provided that the reward has not been set to "skip reward requests queue".
 
@@ -19,7 +22,9 @@ A reward cannot be redeemed if the viewer does not enter text. There is no valid
 If a reward skips the queue, it will be redeemed "automatically" and can therefore not be refunded.
 
 ### Redemption Cooldown
-Redeems can be set to "cooldown" in minutes, hours or days, meaning that the redemption will be marked as "on cooldown" once redeemed. Attention: if the reward is refunded to the user the cooldown is **not** reset.
+Redeems can be set to "cooldown" in minutes, hours or days, meaning that the redemption will be marked as "on cooldown" once redeemed. No users can bypass cooldowns - not even the broadcaster.
+
+Attention: if the reward is refunded to the user the cooldown is **not** reset.
 
 ### Limit Redemption per Stream
 A redeem can be set to only be redeemed a maximum of times per stream - there is no upper limit to this number. Restarting the stream in any way resets this counter.
