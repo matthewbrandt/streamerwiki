@@ -1,7 +1,7 @@
 # Twitch Feature Docs
-A rich documentation for Twitch creators and viewers with an easy overview of all the site's features.
+A rich documentation for [Twitch](https://www.twitch.tv/) creators and viewers with an easy overview of all the site's features.
 
-Head on over to https://twitch-feature-docs.netlify.app and start reading!
+Head on over to https://streamerwiki.com and start reading!
 
 # Contributions
 
