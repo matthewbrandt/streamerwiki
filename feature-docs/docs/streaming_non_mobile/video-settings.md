@@ -16,4 +16,4 @@ Twitch recommends sending up to 1920x1080 (1080p/FullHD) at 60fps. If you send h
 Sending less than 480x360 (360p) at 30fps to Twitch may result in your stream not displaying correctly.
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/broadcasting-guidelines)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

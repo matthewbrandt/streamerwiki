@@ -62,4 +62,4 @@ Activating this option enables a Picture-in-Picture version of the player to app
 These two toggles activate a semi-transparent overlay on the video player with some detailed statistics about the broadcast and ads.
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

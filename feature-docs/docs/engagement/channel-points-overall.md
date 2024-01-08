@@ -28,4 +28,4 @@ Each channel can feature as many rewards (i.e. redemptions) as they want, up to 
 *tbd*
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/channel-points-guide)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

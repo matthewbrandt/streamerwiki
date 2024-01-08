@@ -31,4 +31,4 @@ Moderators (and automatically creators) can enable moderation actions to be visi
 Each channel can have a set of chat rules that must be accepted by a chatter before being able to type. Rules can be reviewed after being accepted by clicking the "chat settings" icon and selecting "view chat rules".
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/chat-basics)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

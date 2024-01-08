@@ -13,4 +13,4 @@ This [free tool from Twitch](https://inspector.twitch.tv/) will allow you to vie
 By adding the `?bandwidthtest=true` to the end of the Twitch Ingest URL, you can simulate a livestream without actually going live or notifying viewers. OBS and other software have functionality to do this automatically when a checkbox is checked.
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/broadcasting-guidelines)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

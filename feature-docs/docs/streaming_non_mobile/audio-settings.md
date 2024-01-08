@@ -19,4 +19,4 @@ Any (AAC codec).
 A stream can contain a primary audio track as well as a "VOD Track" to Twitch. The "VOD Track" will be included on the livestream, but when the VOD is played back the audio won't be included. You can find a detailed guide on how to do this in OBS [here](https://obsproject.com/kb/twitch-vod-track-guide).
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/broadcasting-guidelines)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

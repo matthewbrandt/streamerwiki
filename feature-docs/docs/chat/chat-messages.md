@@ -26,4 +26,4 @@ Using `@username` in the chat will automatically highlight the username for that
 
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/chat-basics)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

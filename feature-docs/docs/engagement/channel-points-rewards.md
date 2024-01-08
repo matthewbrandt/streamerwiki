@@ -42,4 +42,4 @@ There are several key restrictions around the use of CP. Some of them include:
 More details can be found in [Twitch's Channel Points Acceptable Use Policy](https://www.twitch.tv/p/en/legal/channel-points-acceptable-use-policy/)
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/channel-points-guide)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)

@@ -18,4 +18,4 @@ On most devices, you can collapse the Twitch chat window. On the technical side,
 
 
 ---
-Anything **unclear** on this page? [Full Twitch Documentation](https://help.twitch.tv/s/article/chat-basics)
+Anything **unclear** on this page? [Create an issue on Github](https://github.com/matthewbrandt/streamerwiki/issues/new)
