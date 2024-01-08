@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Twitch Feature Docs',
+  title: 'StreamerWiki',
   tagline: 'Easy to find information about Twitch\'s features for creators and viewers!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://streamerwiki.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mattytwoshoes', // Usually your GitHub org/user name.
-  projectName: 'twitch-feature-docs', // Usually your repo name.
+  projectName: 'streamerwiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/matthewbrandt/twitch-features-docs/tree/main/feature-docs',
+            'https://github.com/matthewbrandt/streamerwiki/tree/main/feature-docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/matthewbrandt/streamerwiki/tree/main/feature-docs',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -80,7 +80,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/matthewbrandt/twitch-features-docs',
+            href: 'https://github.com/matthewbrandt/streamerwiki',
             label: 'Contribute',
             position: 'right',
           },
