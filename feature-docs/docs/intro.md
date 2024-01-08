@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome
+# Welcome 👋
 
 The sidebar on the left will help you get started.
 
