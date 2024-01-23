@@ -8,8 +8,8 @@ Details about advertisements (ads) on streams, as well as channel pages.
 
 ## Managing Ads as a Creator
 ### Ad Types
-- Preroll: a video ad will play when a viewer opens a Twitch video player, of either a livestream or VOD. The ad(s) are unskippable and can last up to 3 minutes.
-- Midroll: a video ad will play when a viewer is already watching a Twitch video player, of either a livestream or a VOD. The ad(s) are unskippable and can last up to 3 minutes. The timing of mid-roll ads varies wildly between livestreams and VODs.
+- Preroll: a video ad will play when a viewer opens a Twitch video player, of either a livestream or VOD. The ad(s) are unskippable and can last up to 30 seconds.
+- Midroll: a video ad will play when a viewer is already watching a Twitch video player, of either a livestream or a VOD. The ad(s) are unskippable and can last up to 3 minutes. The timing of mid-roll ads varies wildly between livestreams and VODs. A handful of creators have been known to be able to run 6 minute midroll ads, however this is an exception.
 - Display: image ad(s) will be shown on any Twitch browse page (like the homepage or category pages), channel page, video player or chat areas. They can be shown in lots of different types of formats. See [Advertisement Products](/docs/monetisation/advertisement#advertisement-products) for more details.
 
 ### Ad Scheduling & Formats
