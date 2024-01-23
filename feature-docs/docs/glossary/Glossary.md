@@ -22,6 +22,7 @@ A list of terms and words used on and around Twitch and their explanations.
 ### Twitch Anniversary
 ### Chatter
 ### Viewer Count
+### Frontpage
 
 ## Chat Lingo
 - pog
@@ -31,6 +32,7 @@ A list of terms and words used on and around Twitch and their explanations.
 - scuffed
 - stalling
 - scam 
+- LUL
 
 ## Chat Emotes (Emojis)
 ### Twitch Emotes
